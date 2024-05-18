@@ -1,7 +1,7 @@
 # BloodBankManagement: Database Schema and Data Initialization
 ## Overview
 
-This script creates and populates tables for BloodConnect, a comprehensive Blood Bank Management System. It includes tables for managing blood bank managers, recording staff, cities, blood donors, disease finders, blood specimens, hospitals, and recipients. Each table is created with relevant fields and constraints, followed by inserting sample data.
+This script creates and populates tables for a comprehensive Blood Bank Management System. It includes tables for managing blood bank managers, recording staff, cities, blood donors, disease finders, blood specimens, hospitals, and recipients. Each table is created with relevant fields and constraints, followed by inserting sample data.
 
 ## ER Diagram
 
