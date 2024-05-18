@@ -15,7 +15,8 @@ Below is the relational schema diagram for BloodBankManagement:
 
 ![Schema2 Diagram](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/53bf794a-9a13-428c-9a39-e367f77e860e)
 
-Relational schema after normalization :
+Relational schema after normalization:
+
 ![Schema Diagram 1](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/b19c0c6a-3345-44e0-8258-acbfb52cd58a)
 
 ## Tables and Structure
