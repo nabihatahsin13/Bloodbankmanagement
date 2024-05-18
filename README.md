@@ -7,7 +7,7 @@ This script creates and populates tables for BloodConnect, a comprehensive Blood
 
 Below is the Entity-Relationship (ER) diagram for BloodBankManagement:
 
-
+[ER Diagram (1)](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/ad03ac11-122f-4357-9109-00773c6ea86c)
 
 ## Schema Diagram
 
