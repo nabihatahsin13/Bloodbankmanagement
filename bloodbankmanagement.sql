@@ -1,7 +1,7 @@
 CREATE DATABASE  BLOODBANK;
 USE BLOODBANK;
 CREATE TABLE BB_MANAGER (
-  M_id int NOT NULL   PRIMARY KEY ,
+  M_id int NOT NULL   PRIMARY KEY,
   mName varchar(100) NOT NULL,
   m_phNo bigint 
   );
