@@ -7,17 +7,17 @@ This script creates and populates tables for a comprehensive Blood Bank Manageme
 
 Below is the Entity-Relationship (ER) diagram for BloodBankManagement:
 
-![ER Diagram](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/ad03ac11-122f-4357-9109-00773c6ea86c)
+![ER Diagram](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/2bebbd05-5cc7-499f-9aa2-82df5c7f7f89)
 
 ## Schema Diagram
 
 Below is the relational schema diagram for BloodBankManagement:
 
-![Schema2 Diagram](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/53bf794a-9a13-428c-9a39-e367f77e860e)
+![Schema Diagram 1](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/bd4fc4e9-5e75-4129-884f-debe7c3667ce)
 
 Relational schema after normalization:
 
-![Schema Diagram 1](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/b19c0c6a-3345-44e0-8258-acbfb52cd58a)
+![Schema Diagram 2](https://github.com/nabihatahsin13/Bloodbankmanagement/assets/151044928/63b9b091-97c2-4861-a674-a69d5c251bb3)
 
 ## Tables and Structure
 
