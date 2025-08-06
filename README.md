@@ -152,4 +152,3 @@ Execute (Copy and Paste) the provided SQL script to create the tables and insert
 
 - Nabiha Tahsin (222-115-236)
 - Juairia Chowdhury (222-115-233)
-- Mamnun Mumin Eram (222-115-254)
